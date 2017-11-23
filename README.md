@@ -9,6 +9,9 @@
 
 _Shows all prime numbers up to selected integer._
 
+
+![Screenshot](https://github.com/phuzisham/prime/blob/master/img/cap.png "Screen Capture")
+
 ## Support and contact details
 
 _Contact me at david.hale7@gmail.com_
